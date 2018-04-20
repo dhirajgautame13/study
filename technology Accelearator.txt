@@ -12,3 +12,5 @@ shoppingcartelite
 
 
 https://try.github.io/levels/1/challenges/22
+
+https://mva.microsoft.com/en-US/training-courses/asp-net-core-beginner-18153?l=TDG2I96dE_1511787171
